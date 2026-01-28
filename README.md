@@ -30,7 +30,7 @@ This project contains an interactive Excel dashboard built using a custom datase
 ## 📂 Repository Contents
 
 *   `Incident_Management_Dashboard.xlsx` – The full dashboard
-*   `dataset.xlsx` – The dataset used to build the dashboard
+*   `Incidents_dataset.xlsx` – The dataset used to build the dashboard
 *   `README.md` – Documentation
 
 ---
